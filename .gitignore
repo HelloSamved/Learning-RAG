@@ -1,2 +1,13 @@
-.\ragvenv
 __pycache__
+
+# Ignore the virtual environment
+ragvenv/
+.venv/
+venv/
+
+# Ignore local database folders
+chroma_db/
+
+# Ignore API keys and secrets
+api_key.txt
+*.env

@@ -1,7 +1,7 @@
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
-def create_vector_db(chunks):
+def createvectordb(chunks):
     print("--- Step 3: Creating Embeddings and Vector Database ---")
     
     # 1. Initialize the embedding model

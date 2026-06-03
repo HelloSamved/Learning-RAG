@@ -1,7 +1,7 @@
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-def process_document(file_path):
+def processdocument(file_path):
     print("--- Step 2: Ingesting and Chunking Data ---")
     
     # 1. Load the text file
