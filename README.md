@@ -372,6 +372,3 @@ Samved - https://github.com/HelloSamved
 
 Built for learning RAG from scratch. If this helped you, please star the repo.
 
-## License
-
-MIT License - free to use, modify, and distribute for learning and projects.
